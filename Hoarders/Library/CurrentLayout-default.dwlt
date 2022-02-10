@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Hierarchy
   m_RootView: {fileID: 9}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -127,7 +127,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 90
+  controlID: 137
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -178,7 +178,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 134
+  controlID: 43
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -204,7 +204,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 89
+  controlID: 136
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -343,22 +343,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Sprites/Characters/Player
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Sprites/Characters/Player
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\percy\Documents\unity\30_day_video_game\Hoarders
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 185e0000
-    m_LastClickedID: 24088
-    m_ExpandedIDs: 000000001243000020430000145e000000ca9a3b
+    m_SelectedIDs: 1e430000
+    m_LastClickedID: 17182
+    m_ExpandedIDs: 000000001e4300002c4300002e430000304300003243000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -386,7 +386,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000012430000
+    m_ExpandedIDs: 000000001e430000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -438,7 +438,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 90}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 109
@@ -507,8 +507,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 60bdffff
-      m_LastClickedID: -17056
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 64fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -731,7 +731,7 @@ MonoBehaviour:
       width: 4431.5156
       height: 1336.545
     m_MinimalGUI: 1
-  m_defaultScale: 0.26180556
+  m_defaultScale: 0.27638888
   m_LastWindowPixelSize: {x: 1250, y: 398}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
