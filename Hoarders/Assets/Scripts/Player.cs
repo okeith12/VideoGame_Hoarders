@@ -14,12 +14,12 @@ public class Player : MonoBehaviour
     private void Awake()
     {
         player_rigidbody = GetComponent<Rigidbody2D>();
-        if (player_rigidbody == null) Debug.Log("Please Read --- Rigidbody not attached ");
+        if (player_rigidbody == null) Debug.Log("Error --- Rigidbody not attached ");
     }
     //This is when the SCRIPT has been enabled so after an OBJECT been initialed 
     private void Start()
     {
-       
+        
         
     }
     //Related to anything physics
