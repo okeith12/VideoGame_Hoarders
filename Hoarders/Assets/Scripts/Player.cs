@@ -8,12 +8,13 @@ public class Player : MonoBehaviour
     [SerializeField] private float player_speed;
     [SerializeField] private float jump_speed;
     [SerializeField] private bool canJump;
+    
 
     //the Difference is that Awake is called when the OBJECT is initialized 
     private void Awake()
     {
         player_rigidbody = GetComponent<Rigidbody2D>();
-        if (player_rigidbody == null) Debug.Log("Rigidbody not attached ");
+        if (player_rigidbody == null) Debug.Log("Please Read --- Rigidbody not attached ");
     }
     //This is when the SCRIPT has been enabled so after an OBJECT been initialed 
     private void Start()
@@ -21,10 +22,16 @@ public class Player : MonoBehaviour
        
         
     }
-    private void Update()
+    //Related to anything physics
+    private void FixedUpdate()
     {
         Movement();
-        Jump(); 
+     
+    }
+
+    private void Update()
+    {
+        Jump();
     }
 
     private void Movement()
@@ -37,9 +44,10 @@ public class Player : MonoBehaviour
       
         if (Input.GetKey(KeyCode.Space) && Mathf.Abs(player_rigidbody.velocity.y) < 0.001f)
         {
-            player_rigidbody.velocity = Vector2.up * jump_speed;
+           
+            player_rigidbody.AddForce(new Vector2(0, jump_speed), ForceMode2D.Impulse);
             canJump = false;
-            
+               
         }
     }
 

@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 130312037}
   - component: {fileID: 130312036}
   - component: {fileID: 130312035}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: JumpPlatform (1)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -243,7 +243,7 @@ GameObject:
   - component: {fileID: 597150709}
   - component: {fileID: 597150708}
   - component: {fileID: 597150707}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Platform
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -570,7 +570,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player_rigidbody: {fileID: 1857891274}
   player_speed: 5
-  jump_speed: 7.5
+  jump_speed: 7
   canJump: 0
 --- !u!1 &2033491523
 GameObject:
@@ -583,7 +583,7 @@ GameObject:
   - component: {fileID: 2033491526}
   - component: {fileID: 2033491525}
   - component: {fileID: 2033491524}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: JumpPlatform
   m_TagString: Ground
   m_Icon: {fileID: 0}
