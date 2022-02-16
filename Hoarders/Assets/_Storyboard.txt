@@ -1,3 +1,5 @@
 Story: Friend got ingridents stolen and run to MC to get it back after failing to do so
 
 Enemies: Flying Bee Needles, Zombie, Plant shooter, Turtle Spikes And Platfrom rising
+
+Rotating Platform in the Level !
