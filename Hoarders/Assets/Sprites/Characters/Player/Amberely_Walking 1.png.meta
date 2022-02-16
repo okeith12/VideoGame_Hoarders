@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 61724ec48062900409aeafb42c2c78a1
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7137379686747493469
+    second: Amberely_Walking_Forward_RF
+  - first:
+      213: -1337779268513852012
+    second: Amberely_Walking_Forward_I
+  - first:
+      213: 2657379287288126933
+    second: Amberely_Walking_Forward_LF
+  - first:
+      213: -8797272144723230183
+    second: Amberely_Walking_Left_RF
+  - first:
+      213: 942121389211126221
+    second: Amberely_Walking_Left_I
+  - first:
+      213: 5135099935825302230
+    second: Amberely_Walking_Left_LF
+  - first:
+      213: 5351218673599728163
+    second: Amberely_Walking_Right_LF
+  - first:
+      213: 2327327076085283812
+    second: Amberely_Walking_Right_I
+  - first:
+      213: -8335246592741208093
+    second: Amberely_Walking_Right_RF
+  - first:
+      213: 4063711028931031558
+    second: Amberely_Walking_Up_RF
+  - first:
+      213: -6048853303139483927
+    second: Amberely_Walking_Up_I
+  - first:
+      213: 2631639915399678365
+    second: Amberely_Walking 1_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +77,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +111,285 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Amberely_Walking_Forward_RF
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 336
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aba3588dfee2fc90800000000000000
+      internalID: -7137379686747493469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Walking_Forward_I
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 336
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4959958d7d04f6de0800000000000000
+      internalID: -1337779268513852012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Walking_Forward_LF
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 336
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd1a44e168e0e420800000000000000
+      internalID: 2657379287288126933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Walking_Left_RF
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 288
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9124555289fc9e580800000000000000
+      internalID: -8797272144723230183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Walking_Left_I
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 288
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc90a337966131d00800000000000000
+      internalID: 942121389211126221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Walking_Left_LF
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 288
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d29ff84f2a834740800000000000000
+      internalID: 5135099935825302230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Walking_Right_LF
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a495b1809534a40800000000000000
+      internalID: 5351218673599728163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Walking_Right_I
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 240
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb363e15a35c4020800000000000000
+      internalID: 2327327076085283812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Walking_Right_RF
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 240
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef006cc261435c80800000000000000
+      internalID: -8335246592741208093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Walking_Up_RF
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602754d76a3356830800000000000000
+      internalID: 4063711028931031558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Walking_Up_I
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 192
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee3cef08f72e0ca0800000000000000
+      internalID: -6048853303139483927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Walking 1_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99032e5f86758420800000000000000
+      internalID: 2631639915399678365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

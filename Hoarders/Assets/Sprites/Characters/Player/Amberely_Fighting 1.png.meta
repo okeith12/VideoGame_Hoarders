@@ -1,7 +1,154 @@
 fileFormatVersion: 2
 guid: f48b6a70c3d46494db231aa6f3b43725
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6417559805901583002
+    second: Amberely_Fighting 1_0
+  - first:
+      213: -4913841983389937076
+    second: Amberely_Fighting 1_1
+  - first:
+      213: -1097197162269782551
+    second: Amberely_Fighting 1_2
+  - first:
+      213: 742198213239612885
+    second: Amberely_Fighting 1_3
+  - first:
+      213: -3844279614820471599
+    second: Amberely_Fighting 1_4
+  - first:
+      213: 1080072745161006566
+    second: Amberely_Fighting 1_5
+  - first:
+      213: -8529881127309939052
+    second: Amberely_Fighting 1_6
+  - first:
+      213: 1330309863646040774
+    second: Amberely_Fighting 1_7
+  - first:
+      213: -1232548171143437551
+    second: Amberely_Fighting 1_8
+  - first:
+      213: 7290247137571734752
+    second: Amberely_Fighting 1_9
+  - first:
+      213: -3695996366266825891
+    second: Amberely_Fighting 1_10
+  - first:
+      213: -7438757536594712414
+    second: Amberely_Fighting 1_11
+  - first:
+      213: 8965097261728173290
+    second: Amberely_Fighting 1_12
+  - first:
+      213: 5147902384717614699
+    second: Amberely_Fighting 1_13
+  - first:
+      213: -3732397172413538982
+    second: Amberely_Fighting 1_14
+  - first:
+      213: 676881148104906327
+    second: Amberely_Fighting 1_15
+  - first:
+      213: 7463501196969659950
+    second: Amberely_Fighting 1_16
+  - first:
+      213: 972356674785137667
+    second: Amberely_Fighting 1_17
+  - first:
+      213: -7758526405632015391
+    second: Amberely_Fighting 1_18
+  - first:
+      213: -2038239705581534129
+    second: Amberely_Fighting 1_19
+  - first:
+      213: 26088860288732849
+    second: Amberely_Fighting 1_20
+  - first:
+      213: -2278840974926982799
+    second: Amberely_Fighting 1_21
+  - first:
+      213: 9048019056236255386
+    second: Amberely_Fighting 1_22
+  - first:
+      213: -8309541034164925410
+    second: Amberely_Fighting 1_23
+  - first:
+      213: -7544281337394199906
+    second: Amberely_Fighting 1_24
+  - first:
+      213: -1635567322298285503
+    second: Amberely_Fighting 1_25
+  - first:
+      213: -893331535653217999
+    second: Amberely_Fighting 1_26
+  - first:
+      213: 8388648240563633092
+    second: Amberely_Fighting 1_27
+  - first:
+      213: -3770803068086926951
+    second: Amberely_Fighting 1_28
+  - first:
+      213: 283327423853507222
+    second: Amberely_Fighting 1_29
+  - first:
+      213: 6209494659593319880
+    second: Amberely_Fighting 1_30
+  - first:
+      213: -5404346014503616549
+    second: Amberely_Fighting 1_31
+  - first:
+      213: -3662869716558340555
+    second: Amberely_Fighting 1_32
+  - first:
+      213: -6037956463573687928
+    second: Amberely_Fighting 1_33
+  - first:
+      213: 6194197944363913402
+    second: Amberely_Fighting 1_34
+  - first:
+      213: 3300164666454547464
+    second: Amberely_Fighting 1_35
+  - first:
+      213: -921731734552929636
+    second: Amberely_Fighting 1_36
+  - first:
+      213: 1269770861952356949
+    second: Amberely_Fighting 1_37
+  - first:
+      213: 3202856028818863168
+    second: Amberely_Fighting 1_38
+  - first:
+      213: 7343291477697625551
+    second: Amberely_Fighting 1_39
+  - first:
+      213: -3620810738973446588
+    second: Amberely_Fighting 1_40
+  - first:
+      213: -2597971570378170223
+    second: Amberely_Fighting 1_41
+  - first:
+      213: 7318323115202422420
+    second: Amberely_Fighting 1_42
+  - first:
+      213: 7708885630966603088
+    second: Amberely_Fighting 1_43
+  - first:
+      213: 5807767738466718354
+    second: Amberely_Fighting 1_44
+  - first:
+      213: -5521617007725648691
+    second: Amberely_Fighting 1_45
+  - first:
+      213: 5293349505776176125
+    second: Amberely_Fighting 1_46
+  - first:
+      213: 782470210535258881
+    second: Amberely_Fighting 1_47
+  - first:
+      213: 6948345988902175616
+    second: Amberely_Fighting 1_48
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +188,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +222,1062 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 320
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d4964bb5f30f6a0800000000000000
+      internalID: -6417559805901583002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 320
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4254a130c68ecbb0800000000000000
+      internalID: -4913841983389937076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 320
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edc75e7ef8f5c0f0800000000000000
+      internalID: -1097197162269782551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 320
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5a315b751dc4a00800000000000000
+      internalID: 742198213239612885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dca955ee0066aac0800000000000000
+      internalID: -3844279614820471599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed17e270703dfe00800000000000000
+      internalID: 1080072745161006566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 320
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ee166de46cf9980800000000000000
+      internalID: -8529881127309939052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 320
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c212dfc5c5367210800000000000000
+      internalID: 1330309863646040774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 320
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113207af7fb15eee0800000000000000
+      internalID: -1232548171143437551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 42
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e485cf65292c2560800000000000000
+      internalID: 7290247137571734752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 42
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53088913ee25bcc0800000000000000
+      internalID: -3695996366266825891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 42
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a82305ce6934c890800000000000000
+      internalID: -7438757536594712414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 256
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec822ed57c6a6c70800000000000000
+      internalID: 8965097261728173290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 256
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eca73b1f5017740800000000000000
+      internalID: 5147902384717614699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 256
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d5e99fb8cd33cc0800000000000000
+      internalID: -3732397172413538982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_15
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 256
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75693f361d3c46900800000000000000
+      internalID: 676881148104906327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 256
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e441a9bcea39760800000000000000
+      internalID: 7463501196969659950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3045c837e318e7d00800000000000000
+      internalID: 972356674785137667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_18
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 192
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3c0db275d245490800000000000000
+      internalID: -7758526405632015391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 128
+        width: 45
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4447bd69c7b6b3e0800000000000000
+      internalID: -2038239705581534129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 128
+        width: 45
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beca122eafac5000800000000000000
+      internalID: 26088860288732849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_21
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 192
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1715fd5053eef50e0800000000000000
+      internalID: -2278840974926982799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 192
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a985de7a465019d70800000000000000
+      internalID: 9048019056236255386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_23
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 192
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c411c84749eac80800000000000000
+      internalID: -8309541034164925410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 128
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92820f48145d4790800000000000000
+      internalID: -7544281337394199906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1428c2c9f2c4d49e0800000000000000
+      internalID: -1635567322298285503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 128
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1395cbe83bf3a93f0800000000000000
+      internalID: -893331535653217999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 128
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb308c31277a6470800000000000000
+      internalID: 8388648240563633092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 128
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c9b0969a6babc0800000000000000
+      internalID: -3770803068086926951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_29
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 128
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6923ae57ac49ee300800000000000000
+      internalID: 283327423853507222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 128
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5bebb5e7e8c2650800000000000000
+      internalID: 6209494659593319880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 64
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfb63aeee7eff4b0800000000000000
+      internalID: -5404346014503616549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_32
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 64
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e1106466fda2dc0800000000000000
+      internalID: -3662869716558340555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_33
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 64
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881aa6b369ed43ca0800000000000000
+      internalID: -6037956463573687928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 64
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0144e463636f550800000000000000
+      internalID: 6194197944363913402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c9154774a8ccd20800000000000000
+      internalID: 3300164666454547464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_36
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 64
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a94c7fed95533f0800000000000000
+      internalID: -921731734552929636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 64
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552dfc41fd12f9110800000000000000
+      internalID: 1269770861952356949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 64
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0447778b694d27c20800000000000000
+      internalID: 3202856028818863168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_39
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 64
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdf15a41bc98e560800000000000000
+      internalID: 7343291477697625551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e619811db40cdc0800000000000000
+      internalID: -3620810738973446588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190ab031f9622fbd0800000000000000
+      internalID: -2597971570378170223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496ab216918ef8560800000000000000
+      internalID: 7318323115202422420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_43
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d90ef43a67bfa60800000000000000
+      internalID: 7708885630966603088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_44
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292584dbcf5599050800000000000000
+      internalID: 5807767738466718354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_45
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4e1c416964f53b0800000000000000
+      internalID: -5521617007725648691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb47c38451c57940800000000000000
+      internalID: 5293349505776176125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b7742c284ebda00800000000000000
+      internalID: 782470210535258881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amberely_Fighting 1_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083460decdb7d6060800000000000000
+      internalID: 6948345988902175616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
