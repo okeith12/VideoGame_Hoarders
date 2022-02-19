@@ -13,10 +13,10 @@ public class Anima : MonoBehaviour
         anima = GetComponent<Animator>();
         if (anima == null) Debug.LogError("Animator not attached ");
     }
-    void ChangeAnimationState(string newState)
+    public void ChangeAnimationState(string newState)
     {
         if (currentState == newState) return;
-        
+
         //play the animation
         anima.Play(newState);
 
